@@ -16,7 +16,7 @@ function App() {
       setShowChat(true);
     }
   };
-  console.log("show Chat hereeee!")
+  console.log("show Chat heree!")
   return (
     <div className="App">
       {!showChat ? (
